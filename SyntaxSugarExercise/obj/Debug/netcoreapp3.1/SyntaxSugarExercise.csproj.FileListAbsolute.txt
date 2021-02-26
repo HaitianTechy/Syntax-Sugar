@@ -1,0 +1,13 @@
+C:\Users\lynnp\OneDrive\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\netcoreapp3.1\SyntaxSugarExercise.exe
+C:\Users\lynnp\OneDrive\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\netcoreapp3.1\SyntaxSugarExercise.deps.json
+C:\Users\lynnp\OneDrive\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\netcoreapp3.1\SyntaxSugarExercise.runtimeconfig.json
+C:\Users\lynnp\OneDrive\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\netcoreapp3.1\SyntaxSugarExercise.runtimeconfig.dev.json
+C:\Users\lynnp\OneDrive\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\netcoreapp3.1\SyntaxSugarExercise.dll
+C:\Users\lynnp\OneDrive\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\netcoreapp3.1\SyntaxSugarExercise.pdb
+C:\Users\lynnp\OneDrive\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxSugarExercise.csprojAssemblyReference.cache
+C:\Users\lynnp\OneDrive\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxSugarExercise.AssemblyInfoInputs.cache
+C:\Users\lynnp\OneDrive\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxSugarExercise.AssemblyInfo.cs
+C:\Users\lynnp\OneDrive\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxSugarExercise.csproj.CoreCompileInputs.cache
+C:\Users\lynnp\OneDrive\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxSugarExercise.dll
+C:\Users\lynnp\OneDrive\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxSugarExercise.pdb
+C:\Users\lynnp\OneDrive\Desktop\Repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\netcoreapp3.1\SyntaxSugarExercise.genruntimeconfig.cache
